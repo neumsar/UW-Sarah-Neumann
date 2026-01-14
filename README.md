@@ -4,7 +4,7 @@ Activity: GitHub, Markdown, and HTML - January 14
 
 Hello! My name is Sarah. I study Psychology at the University of Washington. This page says a little about me.
 
-![Dubs](dubs.jpg "A picture of Dubs a.k.a. UW Example Student")
+![Papaya](IMG_7468.jpeg "A picture of Papaya")
 
 ## Academics
 
@@ -14,8 +14,8 @@ I plan to become Cognitive Developmental Psychology researcher.
 Here is a list of my favorite classes at UW:
 
 - [Cognitive Development]([https://myplan.uw.edu/course/#/courses/INFO330?states=N4Ig7gDgziBcLADrgJYDsAmB7MAJApigOYAWALsrAIwCsALAEwA0yY62YACllCmSljSUGANgC%2BIMUA](https://myplan.uw.edu/course/#/courses/PSYCH%20414?id=05e40f0d-c588-4440-ba16-5f69bc06f3fc))
-- [Data Structures and Parallelism](https://courses.cs.washington.edu/courses/cse332/)
-- [Introduction to Professional and Technical Writing](https://english.washington.edu/courses/2024/winter/engl/288/g)
+- [Developmental Psychology]([https://courses.cs.washington.edu/courses/cse332/](https://myplan.uw.edu/course/#/courses/PSYCH%20306?id=4f70a285-b985-4ad9-9402-7fd8c8a69420))
+- [Statistical Inference in Psychological Research]([https://english.washington.edu/courses/2024/winter/engl/288/g](http://myplan.uw.edu/course/#/courses/PSYCH%20318?id=76e00200-2405-433d-ac97-d936bf9bcb45))
 
 ## Programming Background
 
